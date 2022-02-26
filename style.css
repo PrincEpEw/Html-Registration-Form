@@ -1,0 +1,11 @@
+form{
+    border: 2px solid violet;
+    padding:10px;
+    background-color: aqua;
+    color: brown;
+  
+}
+.sub{
+    background-color: black;
+    color: white;
+}
